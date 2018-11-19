@@ -1,0 +1,5 @@
+RUNNING OUR PROJECT. first quit and rerun docker.
+RUN DOCKER CONTAINER C:\Users\Erik\Desktop\smartbrain\smart-brain-api-master> docker-compose up --build
+INSTALL AND RUN FRONTEND C:\Users\Erik\Desktop\smartbrain\smart-brain-master npm start
+
+don't know if necessary [psql postgres://postgres:rebane@localhost:5432/smartbrain]
